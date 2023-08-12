@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T14:07:15.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Zef8t9NayGCDHqs1q1Dv" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T14:12:32.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="szZoEnMwPtwP2yR0roQp" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="KOUSG7HFB2AcRxu7Totx">
     <mxGraphModel dx="1035" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DasWhKBftfU-XivDyDHb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#0F0F0F;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="600" height="800" as="geometry" />
+          <mxGeometry x="160" y="10" width="550" height="800" as="geometry" />
         </mxCell>
         <mxCell id="YAdSg8_cNeBtJVIXIS_c-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="30" height="60" as="geometry" />
